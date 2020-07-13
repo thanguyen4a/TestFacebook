@@ -11,7 +11,7 @@ package testfb;
  */
 public class Config {
     public static String driverPath="./exe/chromedriver.exe";
-    public static String URL = "https://www.facebook.com/";
+    public static String URL = "http://commons.apache.org/proper/commons-io/";
     
     public static String page = "https://www.facebook.com/groups/489091905025053/";
     public static String user = "";
